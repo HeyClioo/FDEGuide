@@ -34,19 +34,11 @@ FDE is not a new job title — it is a **capability set**. This guide breaks it 
 | 4 | ⚙️ Automation Specialist | Turn repetitive work into human-free pipelines | n8n workflows, Playwright, scheduled jobs, bots |
 | 5 | 🤖 AI Application Specialist | Know where AI's capability boundary lies | Prompt engineering, knowledge-base governance, hallucination control, human-in-the-loop |
 
-## Articles
-
-> 🚧 Work in progress. Everything here comes from the author's first-hand experience shipping 6 AI products solo inside a 180-person company. Real data, no fabricated case studies.
-
-- What is an FDE: the job that grew 42x in two years, and your real distance from it (coming soon)
-- I spent six months trying to "replace" test engineers with AI — and failed. But 530 test cases hit 86% accuracy (coming soon)
-- "Company assets are not my assets" — what shipping 6 AI products taught me (coming soon)
-
 ## About the author
 
 **HeyClio** — Enterprise AI product manager / FDE practitioner.
 
-Shipped 6 AI products solo inside a 180-person company: AI test automation (530 cases at 86.23% measured accuracy, 442 solidified replay scripts), an AI business dashboard (31 cards + closed-loop risk alerts), enterprise knowledge-base bots, and n8n automation workflows.
+Key products delivered: AI test automation (500 test cases at 86% measured accuracy), an AI business dashboard (31 cards + closed-loop risk alerts), enterprise knowledge-base bots, and n8n automation workflows.
 
 Deploying AI inside a real enterprise — sharing field lessons before they become playbooks.
 
